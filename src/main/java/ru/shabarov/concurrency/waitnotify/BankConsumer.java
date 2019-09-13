@@ -1,5 +1,8 @@
 package ru.shabarov.concurrency.waitnotify;
 
+/**
+ * Example from 'Cay Horstmann 'Core Java Volume 1'
+ */
 public class BankConsumer {
 
     private static final int NACCOUNTS = 100;
